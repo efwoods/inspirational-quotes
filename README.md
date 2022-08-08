@@ -1,14 +1,6 @@
-# learning-template
-Template to start describing learned concepts and reusability of those concepts. 
+# Inspirational Quotes
+A list of inspirational quotes
 
 ## Purpose
-Why use this?
+A source of inspiration
 
-## Explaination
-[Explaination](webaddress)
-
-## Prerequisites
-`command to run`
-
-## Use
-Description of use
